@@ -1,0 +1,106 @@
+* {
+  margin: 0 auto;
+}
+/* khung của login  */
+.sign_in {
+  width: 800px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  border-radius: 30px;
+}
+/* nội dung bên trái */
+.sign_in .left h3 {
+  font-size: 30px;
+  font-weight: 800;
+  margin: 100px 0px 50px 0px;
+}
+
+.sign_in .left .name {
+  width: 250px;
+  height: 50px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.sign_in .left .password {
+  width: 250px;
+  height: 50px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.sign_in .left button {
+  width: 260px;
+  height: 56px;
+  display: block;
+  margin-bottom: 20px;
+  background-color: #7bb32e;
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}
+
+/* đường gạch ở giữa  */
+.sign_in .between .line {
+  margin-top: 100px;
+  width: 1px;
+  height: 100px;
+  background-color: gray;
+}
+
+.between span {
+  color: #7bb32e;
+  display: block;
+  position: relative;
+  top: 45px;
+}
+
+/* phần nội dung bên phải  */
+
+.right p {
+  margin: 110px 0px 50px 0px;
+  color: #758f9d;
+}
+
+.right .facebook {
+  background-color: #3b5699;
+  width: 250px;
+  height: 70px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}
+
+.right .twitter {
+  background-color: #00abf0;
+  width: 250px;
+  height: 70px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}
+
+.right .twitter i {
+  margin-left: -31px;
+}
+
+.right .google {
+  background-color: #dd4c39;
+  width: 250px;
+  height: 70px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}
+
+.right .google i {
+  margin-left: -20px;
+}
