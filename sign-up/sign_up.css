@@ -2,16 +2,16 @@
   margin: 0 auto;
   font-family: "Poppins", sans-serif;
 }
-.sign_up {
+.sign_up1 {
   width: 800px;
   height: 600px;
   background-image: url(image/13.jpg);
   border: 1px solid black;
-  margin-top: 100px;
+  margin-top: 50px;
   border-radius: 30px;
 }
 
-.sign_up h1 {
+.sign_up1 h1 {
   text-align: center;
 }
 
@@ -30,71 +30,71 @@
   text-align: center;
 }
 
-.frame .user {
+.frame .user1 {
   margin: 10px 33px;
 }
 
-.frame .user input {
+.frame .user1 input {
   width: 300px;
   height: 40px;
   padding-left: 30px;
 }
 
-.frame .user i {
+.frame .user1 i {
   position: relative;
   top: -35px;
   left: 10px;
 }
 /* */
-.frame .email {
+.frame .email1 {
   margin: 10px 33px;
 }
 
-.frame .email input {
+.frame .email1 input {
   width: 300px;
   height: 40px;
   padding-left: 33px;
 }
 
-.frame .email i {
+.frame .email1 i {
   position: relative;
   top: -35px;
   left: 10px;
 }
 /**/
-.frame .password {
+.frame .password1 {
   margin: 10px 33px;
 }
 
-.frame .password input {
+.frame .password1 input {
   width: 300px;
   height: 40px;
   padding-left: 34px;
 }
 
-.frame .password i {
+.frame .password1 i {
   position: relative;
   top: -35px;
   left: 10px;
 }
 /**/
-.frame .retypepassword {
+.frame .retypepassword1 {
   margin: 10px 33px;
 }
 
-.frame .retypepassword input {
+.frame .retypepassword1 input {
   width: 300px;
   height: 40px;
   padding-left: 30px;
 }
 
-.frame .retypepassword i {
+.frame .retypepassword1 i {
   position: relative;
   top: -35px;
   left: 10px;
 }
 
-#signup {
+#signup1 {
   background-color: #d52685;
   cursor: pointer;
   width: 150px;
